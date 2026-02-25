@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MD Sadiuzzaman Sk</h1>
+<h1 align="center">Hi, I'm Sadiuzzaman </h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 
 - 👨‍💻 All of my projects are available at [https://mdsadiuzzamansk.com](https://mdsadiuzzamansk.com)
